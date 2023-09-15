@@ -1,85 +1,80 @@
-# Preferred name (Characters only)
 name: "Lewis Shum"
-# Your GitHub repo root URL
+
 github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_LewisShum
 
-# Introduce yourself (80-120 words)
-# Suggestions: you should 
-# 1) describe your academic and work experience (please focus on transferable/job related tech and soft skills only)
-# 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
-# 3) mention what kind of role you are looking for
-# 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
-summary: I hold an MSc in Information Technology with Distinction from Hong Kong Polytechnic University. During my tenure at Prudential plc, a multinational insurance company, I worked within a regional team, supporting Local Business Units in countries like Singapore, Vietnam, and Malaysia. This role honed my communication skills, allowing me to effectively collaborate across various countries and departments. I possess proficiency in multiple programming languages (Typescript, JavaScript, Node.js, Python, Java, C#), both relational (PostgreSQL) and non-relational (MongoDB) databases, as well as familiarity with DevOps tools such as Docker, Kubernetes, Jenkins, and Git. My passion lies in software engineering, where I take pleasure in creating reliable, scalable, and well-organized applications while eagerly staying current with emerging technologies in the field. With my robust educational foundation, a blend of technical and soft skills, and my commitment to continuous growth, I believe I can make a valuable contribution to your team.
-
+summary: I hold an MSc in Information Technology with Distinction from Hong Kong Polytechnic University and bring a wealth of experience from my tenure at Prudential plc, a multinational insurance company. Within a regional team, I provided crucial support to Local Business Units across diverse countries like Hong Kong, Singapore, Vietnam, and Malaysia. This role has finely honed my communication skills, enabling me to effectively collaborate across borders and departments.
+  Professionally, I'm proficient in a wide array of programming languages including Typescript, JavaScript, Node.js, Python, Java, and C#, and well-versed in both relational (PostgreSQL) and non-relational (MongoDB) databases. My familiarity with DevOps tools like Docker, Kubernetes, Jenkins, Linux, and Git facilitates streamlined development processes.
+  However, my true passion lies in software engineering. I derive immense satisfaction from crafting reliable, scalable, and meticulously organized applications while enthusiastically keeping up with emerging technologies in the field.
+  Complementing my technical expertise are my exceptional soft skills. I'm a strong communicator, adept at fostering collaboration, skilled in problem-solving, and dedicated to meticulous documentation. This blend of technical prowess and soft skills positions me to make a valuable and versatile contribution to your team's success.
 skills:
-  # Please include 
-  #     1)soft skills (e.g. elicitation, communicaiton, collaberation, interpersonal, etc ) 
-  #     2) business tools (such as Excel, Viso, etc.)
-  Business Skills:
-    - Excel
+  proficient:
+    - Typescript
+    - Javascript
+    - Node.js
+    - MongoDB
+    - PostgreSQL
+    - MySQL
+    - MSSQL
+    - Python
+    - Linux
+    - Bash Script
+    - Agile Scrum
+    - Docker
+    - Git
     - Communication
     - Collaboration
     - Problem-solving
-    - Project Management
     - Documentation
-  # Please add more data related skills, such as Python, Tableau, R, Matlab, AI, ML, Statistics, etc.
-  # You can also add some programming skills, such as programming languages, GIT, Linux, Cloud Platform, tools, etc.
-  Technical Skills:
-    - RDBMS(Postgres, MySQL, MSSQL)/NoSQL(MongoDB)
-    - TS/JS/Python/Java/C#
-    - Node.js/Nest.js/React/Flask/Springboot
-    - Azure/AWS
-    - Docker/Kubernetes/Jenkins/Git/Linux
-    - AI/ML/Genetic Algorithm
+  competent:
+    - React
+    - Java
+    - Springboot
+    - C#
+    - .NET
+    - Flask
+    - Kubernetes
+    - Jenkins
+    - Azure
+  familiar:
+    - AWS
+    - AI
+    - ML
+    - Numpy
+    - Pandas
+    - Selenium
 
-# List of Jarvis projects
-# Please describe your resume from a BSA perspective (e.g. requirement elicitation, scope, stakeholder, coordination, diagrams)
 jarvis_projects:
   - name: "Linux Cluster Resource Monitoring App"
     git_url: "/linux_sql"
-    # Focus on BSA work instead of development work
-    # Include the following keywords: BRD, SRD, Elicitation, stakeholder, reqruiement, analysis, RDBMS, SQL, data modeling, SLA
-    description: Linux cluster monitoring application offers real-time insight into server hardware usage, ensuring optimal performance and timely issue resolution. It operates through a bash script triggered at regular intervals by a crontab, which writes new records to a centralized SQL server. This approach enables continuous, up-to-the-minute monitoring of server health and resource utilization. This Linux cluster monitoring application is a valuable tool for system administrators, ensuring server uptime, preemptive issue resolution, and efficient resource allocation.
+    description: Utilizing a combination of a Bash Script and Crontab, coupled with a centralized PostgreSQL server hosted on Docker, the Linux cluster monitoring application provides real-time visibility into server hardware usage. This comprehensive approach guarantees not only optimal performance but also swift issue resolution. Continuous, up-to-the-minute monitoring of server health and resource utilization empowers system administrators with the tools they need to maintain server uptime, proactively address potential issues, and efficiently allocate resources.
 
-# List of personal or academic projects
-# Please focus on transferable skills, such as soft skills and data related skills
 highlighted_projects:
-    #project name
-  - name: "Train MLP With GA"
-    #URL is optional
-    git_url: "https://github.com/lewis0926/train-mlp-with-ga"
-    # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: This project implements a Genetic Algorithm (GA) to fine-tune a Multilayer Perceptron (MLP) model. It's coded in Python within a Jupyter Notebook environment, leveraging various libraries for data preprocessing, model training, and genetic algorithm optimization.
   - name: "Solve TSP With GA"
     git_url: "https://github.com/lewis0926/genetic-algorithm-tsp"
-    description: This project is an implementation of Genetic Algorithms (GA) for solving Traveling Salesman Problem (TSP). The code is written in Python within Jupyter Notebook environments and utilizes several libraries for data manipulation, visualization, and algorithmic implementations.
+    description: This project presents an implementation of Genetic Algorithms (GA) to tackle the classic Traveling Salesman Problem (TSP). Developed in Python within Jupyter Notebook environments, the project draws upon a suite of essential libraries, including numpy for efficient data manipulation, matplotlib for insightful data visualization, pandas for data handling, and sklearn for algorithmic implementations. Beyond its technical prowess, this project serves the dual purpose of solving a classical TSP and showcasing the broader potential applications of efficient route optimization, ranging from logistics and supply chain management to network routing and beyond.
+  - name: "Train MLP With GA"
+    git_url: "https://github.com/lewis0926/train-mlp-with-ga"
+    description: This project, developed within a Jupyter Notebook environment using Python, implements a Genetic Algorithm (GA) to fine-tune a Multilayer Perceptron (MLP) model. Leveraging a stack of essential libraries, including numpy for numerical operations, matplotlib for data visualization, mlxtend for machine learning model evaluation, pickle for object serialization, and scikit-learn (sklearn) for comprehensive machine learning tools, this endeavor facilitates efficient data preprocessing, model training, and genetic algorithm optimization. The combined power of these libraries empowers data scientists and machine learning practitioners to craft and optimize MLP architectures effectively. Notably, this project explores an alternative approach to training MLP models, diverging from the standard backpropagation method, showcasing the versatility of GA-based optimization in neural network architecture design.
 
-# List of professional experience
-# Please focus on transferable skills, such as soft skills and data related skills
 professional_experience:
-  #Write your Jarvis role as a professional experience rather than training.
   - title: "Software Developer"
     company: "Jarvis"
-    duration: "2023-present"
-    # The project description must start with an action verb (https://bit.ly/3guO98u)
-    # Avoid the following terms: training, learning, etc. Instead, you should focus on the work, such as worked on XYY; Wrote ABC document; Analyzed QWE project;
+    duration: "2023 Sep - present"
     description: "In my role at Jarvis, my primary focus is app development, and the Linux Cluster Monitoring App is one of my projects. This versatile tool provides real-time server insights, helping system administrators optimize resources and proactively resolve issues to ensure server uptime and efficiency."
   - title: "Software Engineer"
     company: "Prudential plc"
-    duration: "2022-2023"
-    description: "In my role at Prudential, I excelled in delivering high-quality work within tight timelines in an Agile Scrum environment. My focus primarily revolved around Full Stack development, with a strong emphasis on Back-End (BE) development. Leveraging cutting-edge DevOps and Cloud tools like Kubernetes, Docker, Jenkins, and Azure, I streamlined our software development processes. Communication played a vital role in my daily tasks as I collaborated with a diverse team of 50 professionals across 7 international business units within our regional development team. I was responsible for overseeing and contributing to the development of various projects across more than 20 distinct Git branches, each tailored to specific business units. My expertise extended to Full Stack development, with Node.js and TypeScript powering the Back-End and React driving the Front-End, ensuring a comprehensive approach to software development. Additionally, I conducted thorough code reviews and merged push requests from fellow developers to uphold code quality and enhance team collaboration."
+    duration: "2022 Aug - 2023 Aug"
+    description: "At Prudential, I had the privilege of being part of a collaborative team that developed a significant project - an all-in-one agent app. This comprehensive application empowered users with tools for tracing engagement, recruitment, automated lead distribution, and agent performance analysis, among other functions. My contributions included working on TypeScript for both Back-End (Node.js with Nest.js framework) and Front-End (React.js) development, as well as assisting with database management using MongoDB and PostgreSQL. Azure served as our Cloud service. In addition to this project, my role encompassed a wide range of skills and responsibilities within an Agile Scrum environment. I consistently strived to deliver high-quality work within tight timelines, with a primary focus on Full Stack development, particularly Back-End (BE) development. Our software development processes is streamed by using cutting-edge DevOps and Cloud tools like Kubernetes, Docker, Jenkins, and Azure. Clear and effective communication was paramount in my daily tasks, as I collaborated with a diverse team of 50 professionals across 7 international business units within our regional development team. Moreover, I was fortunate to be part of overseeing and contributing to various projects managed across more than 20 distinct Git branches, each tailored to specific business units. My dedication extended to conducting thorough code reviews and merging push requests from fellow developers, in order to collectively ensure code quality and enhance team collaboration. Within an Agile Scrum model, I also applied my familiarity with Bitbucket, Jira and Confluence to contribute to efficient project management and successful delivery. This experience has been a valuable learning opportunity, and I'm grateful to have been a part of such a talented and dedicated team."
   - title: "Programmer"
     company: "Fujifilm Data Management Solutions"
-    duration: "2020-2022"
-    description: "In my role at Fujifilm, I played a pivotal role in the entire Software Development Life Cycle (SDLC), encompassing planning, design, coding, testing, and deployment of software solutions. As a key contributor, I led the resolution of critical production issues by fostering close collaboration with clients and internal teams, ensuring clear and effective communication throughout the process. My responsibilities also involved collecting requirements from clients within the finance sector and establishing protocols and methods to ensure that technical solutions aligned seamlessly with their strategic objectives. My core expertise lay in utilizing C#.NET as the Back-End language, and I gained valuable experience in Linux environments, further enhancing my contribution to the team and the successful delivery of projects."
-#List of edcuation
-education: 
+    duration: "2020 Feb -2022 Apr"
+    description: "At Fujifilm, I spearheaded the development of a data automation system, leveraging C#.NET, Perl, and Linux. This innovative system efficiently transformed raw data into high-value outputs, aligning seamlessly with business objectives. My role encompassed the entire Software Development Life Cycle (SDLC), including planning, coding, testing, and deployment. I excelled in resolving critical production issues by fostering collaboration among clients and internal teams, emphasizing clear communication. Additionally, I collected requirements from finance sector clients and ensured technical solutions aligned with their strategic objectives. My expertise extended to Linux and Bash scripting, further enhancing my contribution to project success."
+education:
   - school_name: "The Hong Kong Polytechnic University"
     duration: "2021-2023"
     degree: "Master of Science in Information Technology"
     department: "Computer Engineering"
-    # optional
-    awards_achievements: 
+    awards_achievements:
       - "Distinction"
       - "Scholarship"
   - school_name: "The Hong Kong University of Science and Technology"
@@ -90,11 +85,12 @@ education:
       - "Second Upper Class Honour"
       - "Scholarship"
 
-#Optional section
 others:
-    #category
   - title: "Certificates"
-    #list of items
     bullets:
       - "Azure Fundamentals"
       - "Azure AI Fundamentals"
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Active Basketball Player: I participated in organized basketball leagues, fostering teamwork, coordination, and effective communication on and off the court."
+      - "Competitive Gaming Enthusiast: Engaging in competitive gaming has sharpened my ability to collaborate within diverse virtual teams, strategize, and adapt quickly to changing scenarios."
