@@ -16,15 +16,10 @@ skills:
     - MySQL
     - MSSQL
     - Python
-    - Linux
-    - Bash Script
+    - Linux/Bash
     - Agile Scrum
     - Docker
     - Git
-    - Communication
-    - Collaboration
-    - Problem-solving
-    - Documentation
   competent:
     - React
     - Java
@@ -37,8 +32,7 @@ skills:
     - Azure
   familiar:
     - AWS
-    - AI
-    - ML
+    - AI/ML
     - Numpy
     - Pandas
     - Selenium
@@ -46,7 +40,7 @@ skills:
 jarvis_projects:
   - name: "Linux Cluster Resource Monitoring App"
     git_url: "/linux_sql"
-    description: Utilizing a combination of a Bash Script and Crontab, coupled with a centralized PostgreSQL server hosted on Docker, the Linux cluster monitoring application provides real-time visibility into server hardware usage. This comprehensive approach guarantees not only optimal performance but also swift issue resolution. Continuous, up-to-the-minute monitoring of server health and resource utilization empowers system administrators with the tools they need to maintain server uptime, proactively address potential issues, and efficiently allocate resources.
+    description: Utilizing a combination of a Bash and Cron, coupled with a centralized PostgreSQL server hosted on Docker, the Linux cluster monitoring application provides real-time visibility into server hardware usage. This comprehensive approach guarantees not only optimal performance but also swift issue resolution. Continuous, up-to-the-minute monitoring of server health and resource utilization empowers system administrators with the tools they need to maintain server uptime, proactively address potential issues, and efficiently allocate resources.
 
 highlighted_projects:
   - name: "Solve TSP With GA"
@@ -60,7 +54,7 @@ professional_experience:
   - title: "Software Developer"
     company: "Jarvis"
     duration: "2023 Sep - present"
-    description: "In my role at Jarvis, my primary focus is app development, and the Linux Cluster Monitoring App is one of my projects. This versatile tool provides real-time server insights, helping system administrators optimize resources and proactively resolve issues to ensure server uptime and efficiency."
+    description: "In my role at Jarvis, I specialize in application development, actively contributing to diverse projects within an Agile Scrum framework. I thrive in a collaborative environment, engaging with my teammates through efficient 2-week sprint cycles. My expertise encompasses a wide range of technologies, including Linux/Bash for scripting, Cron for task scheduling, Docker for containerization, PostgreSQL for database management, and Java with Spring for robust application development. My dedication to delivering high-quality software solutions aligns seamlessly with Jarvis's commitment to excellence."
   - title: "Software Engineer"
     company: "Prudential plc"
     duration: "2022 Aug - 2023 Aug"
@@ -71,25 +65,25 @@ professional_experience:
     description: "At Fujifilm, I spearheaded the development of a data automation system, leveraging C#.NET, Perl, and Linux. This innovative system efficiently transformed raw data into high-value outputs, aligning seamlessly with business objectives. My role encompassed the entire Software Development Life Cycle (SDLC), including planning, coding, testing, and deployment. I excelled in resolving critical production issues by fostering collaboration among clients and internal teams, emphasizing clear communication. Additionally, I collected requirements from finance sector clients and ensured technical solutions aligned with their strategic objectives. My expertise extended to Linux and Bash scripting, further enhancing my contribution to project success."
 education:
   - school_name: "The Hong Kong Polytechnic University"
-    duration: "2021-2023"
+    duration: "2021 Sep - 2023 Jan"
     degree: "Master of Science in Information Technology"
     department: "Computer Engineering"
     awards_achievements:
       - "Distinction"
-      - "Scholarship"
+      - "Scholarship: Targeted Taught Postgraduate Programmes Fellowships Scheme offered by the University Grants Committee (UGC)"
   - school_name: "The Hong Kong University of Science and Technology"
-    duration: "2015-2019"
+    duration: "2015 Sep - 2019 Jun"
     degree: "Bachelor of Engineering in Civil Engineering"
     department: "Civil Engineering"
     awards_achievements:
       - "Second Upper Class Honour"
-      - "Scholarship"
+      - "Scholarship: First-Year Tuition Fee Settlement offered by the Hong Kong University of Science and Technology"
 
 others:
   - title: "Certificates"
     bullets:
-      - "Azure Fundamentals"
-      - "Azure AI Fundamentals"
+      - "Azure Fundamentals Certificate from Microsoft"
+      - "Azure AI Fundamentals Certificate from Microsoft"
   - title: "Activities/Hobbies"
     bullets:
       - "Active Basketball Player: I participated in organized basketball leagues, fostering teamwork, coordination, and effective communication on and off the court."

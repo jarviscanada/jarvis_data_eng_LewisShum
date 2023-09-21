@@ -4,18 +4,18 @@ I hold an MSc in Information Technology with Distinction from Hong Kong Polytech
 
 ## Skills
 
-**Proficient:** Typescript, Javascript, Node.js, MongoDB, PostgreSQL, MySQL, MSSQL, Python, Linux, Bash Script, Agile Scrum, Docker, Git, Communication, Collaboration, Problem-solving, Documentation
+**Proficient:** Typescript, Javascript, Node.js, MongoDB, PostgreSQL, MySQL, MSSQL, Python, Linux/Bash, Agile Scrum, Docker, Git
 
 **Competent:** React, Java, Springboot, C#, .NET, Flask, Kubernetes, Jenkins, Azure
 
-**Familiar:** AWS, AI, ML, Numpy, Pandas, Selenium
+**Familiar:** AWS, AI/ML, Numpy, Pandas, Selenium
 
 ## Jarvis Projects
 
 Project source code: [https://github.com/jarviscanada/jarvis_data_eng_LewisShum](https://github.com/jarviscanada/jarvis_data_eng_LewisShum)
 
 
-**Linux Cluster Resource Monitoring App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_LewisShum/tree/master/linux_sql)]: Utilizing a combination of a Bash Script and Crontab, coupled with a centralized PostgreSQL server hosted on Docker, the Linux cluster monitoring application provides real-time visibility into server hardware usage. This comprehensive approach guarantees not only optimal performance but also swift issue resolution. Continuous, up-to-the-minute monitoring of server health and resource utilization empowers system administrators with the tools they need to maintain server uptime, proactively address potential issues, and efficiently allocate resources.
+**Linux Cluster Resource Monitoring App** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_LewisShum/tree/master/linux_sql)]: Utilizing a combination of a Bash and Cron, coupled with a centralized PostgreSQL server hosted on Docker, the Linux cluster monitoring application provides real-time visibility into server hardware usage. This comprehensive approach guarantees not only optimal performance but also swift issue resolution. Continuous, up-to-the-minute monitoring of server health and resource utilization empowers system administrators with the tools they need to maintain server uptime, proactively address potential issues, and efficiently allocate resources.
 
 
 ## Highlighted Projects
@@ -26,7 +26,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_LewisShum]
 
 ## Professional Experiences
 
-**Software Developer, Jarvis (2023 Sep - present)**: In my role at Jarvis, my primary focus is app development, and the Linux Cluster Monitoring App is one of my projects. This versatile tool provides real-time server insights, helping system administrators optimize resources and proactively resolve issues to ensure server uptime and efficiency.
+**Software Developer, Jarvis (2023 Sep - present)**: In my role at Jarvis, I specialize in application development, actively contributing to diverse projects within an Agile Scrum framework. I thrive in a collaborative environment, engaging with my teammates through efficient 2-week sprint cycles. My expertise encompasses a wide range of technologies, including Linux/Bash for scripting, Cron for task scheduling, Docker for containerization, PostgreSQL for database management, and Java with Spring for robust application development. My dedication to delivering high-quality software solutions aligns seamlessly with Jarvis's commitment to excellence.
 
 **Software Engineer, Prudential plc (2022 Aug - 2023 Aug)**: At Prudential, I had the privilege of being part of a collaborative team that developed a significant project - an all-in-one agent app. This comprehensive application empowered users with tools for tracing engagement, recruitment, automated lead distribution, and agent performance analysis, among other functions. My contributions included working on TypeScript for both Back-End (Node.js with Nest.js framework) and Front-End (React.js) development, as well as assisting with database management using MongoDB and PostgreSQL. Azure served as our Cloud service. In addition to this project, my role encompassed a wide range of skills and responsibilities within an Agile Scrum environment. I consistently strived to deliver high-quality work within tight timelines, with a primary focus on Full Stack development, particularly Back-End (BE) development. Our software development processes is streamed by using cutting-edge DevOps and Cloud tools like Kubernetes, Docker, Jenkins, and Azure. Clear and effective communication was paramount in my daily tasks, as I collaborated with a diverse team of 50 professionals across 7 international business units within our regional development team. Moreover, I was fortunate to be part of overseeing and contributing to various projects managed across more than 20 distinct Git branches, each tailored to specific business units. My dedication extended to conducting thorough code reviews and merging push requests from fellow developers, in order to collectively ensure code quality and enhance team collaboration. Within an Agile Scrum model, I also applied my familiarity with Bitbucket, Jira and Confluence to contribute to efficient project management and successful delivery. This experience has been a valuable learning opportunity, and I'm grateful to have been a part of such a talented and dedicated team.
 
@@ -34,17 +34,17 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_LewisShum]
 
 
 ## Education
-**The Hong Kong Polytechnic University (2021-2023)**, Master of Science in Information Technology, Computer Engineering
+**The Hong Kong Polytechnic University (2021 Sep - 2023 Jan)**, Master of Science in Information Technology, Computer Engineering
 - Distinction
-- Scholarship
+- Scholarship: Targeted Taught Postgraduate Programmes Fellowships Scheme offered by the University Grants Committee (UGC)
 
-**The Hong Kong University of Science and Technology (2015-2019)**, Bachelor of Engineering in Civil Engineering, Civil Engineering
+**The Hong Kong University of Science and Technology (2015 Sep - 2019 Jun)**, Bachelor of Engineering in Civil Engineering, Civil Engineering
 - Second Upper Class Honour
-- Scholarship
+- Scholarship: First-Year Tuition Fee Settlement offered by the Hong Kong University of Science and Technology
 
 
 ## Miscellaneous
-- Azure Fundamentals
-- Azure AI Fundamentals
+- Azure Fundamentals Certificate from Microsoft
+- Azure AI Fundamentals Certificate from Microsoft
 - Active Basketball Player: I participated in organized basketball leagues, fostering teamwork, coordination, and effective communication on and off the court.
 - Competitive Gaming Enthusiast: Engaging in competitive gaming has sharpened my ability to collaborate within diverse virtual teams, strategize, and adapt quickly to changing scenarios.
