@@ -3,21 +3,21 @@
     {
       "awards_achievements": [
         "Distinction",
-        "Scholarship"
+        "Scholarship: Targeted Taught Postgraduate Programmes Fellowships Scheme offered by the University Grants Committee (UGC)"
       ],
       "degree": "Master of Science in Information Technology",
       "department": "Computer Engineering",
-      "duration": "2021-2023",
+      "duration": "2021 Sep - 2023 Jan",
       "school_name": "The Hong Kong Polytechnic University"
     },
     {
       "awards_achievements": [
         "Second Upper Class Honour",
-        "Scholarship"
+        "Scholarship: First-Year Tuition Fee Settlement offered by the Hong Kong University of Science and Technology"
       ],
       "degree": "Bachelor of Engineering in Civil Engineering",
       "department": "Civil Engineering",
-      "duration": "2015-2019",
+      "duration": "2015 Sep - 2019 Jun",
       "school_name": "The Hong Kong University of Science and Technology"
     }
   ],
@@ -36,7 +36,7 @@
   ],
   "jarvis_projects": [
     {
-      "description": "Utilizing a combination of a Bash Script and Crontab, coupled with a centralized PostgreSQL server hosted on Docker, the Linux cluster monitoring application provides real-time visibility into server hardware usage. This comprehensive approach guarantees not only optimal performance but also swift issue resolution. Continuous, up-to-the-minute monitoring of server health and resource utilization empowers system administrators with the tools they need to maintain server uptime, proactively address potential issues, and efficiently allocate resources.",
+      "description": "Utilizing a combination of a Bash and Cron, coupled with a centralized PostgreSQL server hosted on Docker, the Linux cluster monitoring application provides real-time visibility into server hardware usage. This comprehensive approach guarantees not only optimal performance but also swift issue resolution. Continuous, up-to-the-minute monitoring of server health and resource utilization empowers system administrators with the tools they need to maintain server uptime, proactively address potential issues, and efficiently allocate resources.",
       "git_url": "/linux_sql",
       "name": "Linux Cluster Resource Monitoring App"
     }
@@ -45,8 +45,8 @@
   "others": [
     {
       "bullets": [
-        "Azure Fundamentals",
-        "Azure AI Fundamentals"
+        "Azure Fundamentals Certificate from Microsoft",
+        "Azure AI Fundamentals Certificate from Microsoft"
       ],
       "title": "Certificates"
     },
@@ -61,7 +61,7 @@
   "professional_experience": [
     {
       "company": "Jarvis",
-      "description": "In my role at Jarvis, my primary focus is app development, and the Linux Cluster Monitoring App is one of my projects. This versatile tool provides real-time server insights, helping system administrators optimize resources and proactively resolve issues to ensure server uptime and efficiency.",
+      "description": "In my role at Jarvis, I specialize in application development, actively contributing to diverse projects within an Agile Scrum framework. I thrive in a collaborative environment, engaging with my teammates through efficient 2-week sprint cycles. My expertise encompasses a wide range of technologies, including Linux/Bash for scripting, Cron for task scheduling, Docker for containerization, PostgreSQL for database management, and Java with Spring for robust application development. My dedication to delivering high-quality software solutions aligns seamlessly with Jarvis's commitment to excellence.",
       "duration": "2023 Sep - present",
       "title": "Software Developer"
     },
@@ -92,8 +92,7 @@
     ],
     "familiar": [
       "AWS",
-      "AI",
-      "ML",
+      "AI/ML",
       "Numpy",
       "Pandas",
       "Selenium"
@@ -107,15 +106,10 @@
       "MySQL",
       "MSSQL",
       "Python",
-      "Linux",
-      "Bash Script",
+      "Linux/Bash",
       "Agile Scrum",
       "Docker",
-      "Git",
-      "Communication",
-      "Collaboration",
-      "Problem-solving",
-      "Documentation"
+      "Git"
     ]
   },
   "summary": "I hold an MSc in Information Technology with Distinction from Hong Kong Polytechnic University and bring a wealth of experience from my tenure at Prudential plc, a multinational insurance company. Within a regional team, I provided crucial support to Local Business Units across diverse countries like Hong Kong, Singapore, Vietnam, and Malaysia. This role has finely honed my communication skills, enabling me to effectively collaborate across borders and departments. Professionally, I'm proficient in a wide array of programming languages including Typescript, JavaScript, Node.js, Python, Java, and C#, and well-versed in both relational (PostgreSQL) and non-relational (MongoDB) databases. My familiarity with DevOps tools like Docker, Kubernetes, Jenkins, Linux, and Git facilitates streamlined development processes. However, my true passion lies in software engineering. I derive immense satisfaction from crafting reliable, scalable, and meticulously organized applications while enthusiastically keeping up with emerging technologies in the field. Complementing my technical expertise are my exceptional soft skills. I'm a strong communicator, adept at fostering collaboration, skilled in problem-solving, and dedicated to meticulous documentation. This blend of technical prowess and soft skills positions me to make a valuable and versatile contribution to your team's success."
